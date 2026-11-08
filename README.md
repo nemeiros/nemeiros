@@ -1,4 +1,4 @@
-<t align="center"> Hi there, I'm Nemeiros </t>
+<h1 align="center">Hello! I'm Nemeiros :D</h1>
 
 <p align="center">
   Just an ordinary person with an interest in games, stories, and technology.
